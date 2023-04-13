@@ -1,0 +1,50 @@
+name: tarim_gelistirme
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.7.0
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/misir.png
+    - assets/aycicegi.jpg
+    - assets/hakkinda.jpg
+    - assets/misir2.jpg
+    - assets/misir3.jpg
+    - assets/aycicegi2.jpg
+    - assets/aycicegi3.jpg
+    - assets/yapay1.jpg
+    - assets/yapay2.jpg
+    - assets/yapay3.jpg
+    - assets/baslik.jpg
+    - assets/koyun.jpeg
+    - assets/koyun1.jpg
+    - assets/koyun2.jpg
+    - assets/su1.jpg
+    - assets/su2.jpg
+    - assets/su.jpg
+    - assets/islah.jpg
+    - assets/islah1.jpg
+    - assets/islah2.jpg
+
